@@ -8,11 +8,3 @@ Where each kind of developer would have the opportunity to learn, work, and earn
     <img src="https://img.shields.io/discord/914899238415130714?color=blue&label=Insolite Community&logo=discord" alt="Insolite Discord Invite Link" /> 
    </a>   
 </p>
-
----
-
-### Open Source Projects
-
-- [Notya](https://github.com/insolite-dev/notya) - A cli application to take and manage notes easily with remote integration suport.
-- [Hidable](https://github.com/insolite-dev/hidable) - A flutter package to make any static located widget hidable on scroll.
-- [Widget Slider](https://github.com/insolite-dev/widget_slider) - A flutter package to create animated slidable list views.
