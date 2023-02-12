@@ -1,10 +1,9 @@
-<p align="center">
- <img width="600" src="https://user-images.githubusercontent.com/59066341/194412864-285cdc51-8ed8-43ce-87c6-64c2c8fd0f82.png" alt="Insolite Logo">
-<br>
-At Insolite, we are on a mission to build unique projects & startups as open source. <br>
-Where each kind of developer would have the opportunity to learn, work, and earn.
-  <br> <br>
-   <a href="https://discord.gg/CtStkzrHV3">
-    <img src="https://img.shields.io/discord/914899238415130714?color=blue&label=Insolite Community&logo=discord" alt="Insolite Discord Invite Link" /> 
-   </a>   
-</p>
+<img width="1391" alt="insolite" src="https://user-images.githubusercontent.com/59066341/218318745-e0a0f4f9-49bc-4c5a-9e08-c04abad5c1b3.png">
+
+## Follow us
+- Twitter:   [@insolite_io](https://twitter.com/insolite_io)
+- LinkedIn:  [@insolite_io](https://www.linkedin.com/company/insoliteio)
+- Discord:   [insolite.io/discord](https://insolite.io/discord)
+
+## We're hiring
+Check our [job listings](insolite.io/discord).
