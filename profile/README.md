@@ -6,5 +6,8 @@
 - LinkedIn:  [company/insoliteio](https://www.linkedin.com/company/insoliteio)
 - Discord:   [insolite.io/discord](https://insolite.io/discord)
 
+### Design: 
+- Twitter: [@insolite_design](https://twitter.com/insolite_design)
+
 ## We're hiring
 Check out our [job listings](insolite.io/discord).
