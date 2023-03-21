@@ -7,4 +7,4 @@
 - Discord:   [insolite.io/discord](https://insolite.io/discord)
 
 ## We're hiring
-Check out our [job listings](insolite.io/discord).
+Check out our [job listings](https://insolite.io/discord).
